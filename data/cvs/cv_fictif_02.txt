@@ -1,0 +1,4 @@
+CV fictif 2
+Profil : Étudiant en NLP
+Compétences : Python, NLP, Transformers, PyTorch, Hugging Face
+Projet : Classification de textes et embeddings.

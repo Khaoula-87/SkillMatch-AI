@@ -1,0 +1,40 @@
+
+# Environnements Python
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Configuration locale
+.env
+.env.*
+!.env.example
+
+# Cache et configuration Streamlit
+.streamlit/secrets.toml
+
+# Modèles téléchargés
+.cache/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.zip
+*_backup*.py
+
+# Éditeurs
+.vscode/
+.idea/

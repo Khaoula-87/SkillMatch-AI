@@ -1,0 +1,4 @@
+CV fictif 4
+Profil : Étudiant en Business Intelligence
+Compétences : SQL, Excel, Power BI, Python
+Projet : Visualisation des indicateurs de performance.

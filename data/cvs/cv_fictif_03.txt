@@ -1,0 +1,4 @@
+CV fictif 3
+Profil : Étudiant en Data Engineering
+Compétences : Python, Spark, SQL, ETL, Elasticsearch
+Projet : Pipeline de données et tableaux de bord.

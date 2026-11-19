@@ -1,0 +1,3 @@
+modele,Precision@5,Recall@5,nDCG@5
+Sentence-BERT,1.0,0.2222,1.0
+TF-IDF,1.0,0.2222,1.0

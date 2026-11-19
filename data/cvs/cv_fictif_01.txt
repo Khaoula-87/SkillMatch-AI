@@ -1,0 +1,4 @@
+CV fictif 1
+Profil : Étudiant en Data Science
+Compétences : Python, Pandas, SQL, scikit-learn, Machine Learning
+Projet : Analyse exploratoire et modèle de classification.

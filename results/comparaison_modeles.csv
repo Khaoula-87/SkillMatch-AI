@@ -1,0 +1,7 @@
+cv_id,modele,Precision@5,Recall@5,nDCG@5
+cv_fictif_01,TF-IDF,1.0,0.25,1.0
+cv_fictif_01,Sentence-BERT,1.0,0.25,1.0
+cv_fictif_02,TF-IDF,1.0,0.25,1.0
+cv_fictif_02,Sentence-BERT,1.0,0.25,1.0
+cv_fictif_03,TF-IDF,1.0,0.1667,1.0
+cv_fictif_03,Sentence-BERT,1.0,0.1667,1.0

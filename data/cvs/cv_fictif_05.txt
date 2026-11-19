@@ -1,0 +1,4 @@
+CV fictif 5
+Profil : Étudiant en Machine Learning
+Compétences : Python, FastAPI, Docker, Git, Machine Learning
+Projet : Déploiement d’un modèle via une API.
